@@ -4,10 +4,7 @@
 
 - 🌱 I’m currently learning **PHP,Laravel,Kotln,Other...**
 
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">Create images with Stable Diffusion.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

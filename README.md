@@ -1,5 +1,5 @@
 ![00342-2692754007](https://github.com/tomo-hdc/tomo-hdc/assets/165623680/ecc69e13-6ab2-4cb5-94da-49023be81bbe)
-<h1 align="center">Hi 👋, I'm tomohiro</h1>
+<h1 align="center">Hi 👋, I'm 智弘(tomohiro)</h1>
 <h3 align="center">Japanese programmer who also edits videos</h3>
 
 - 🌱 I’m currently learning **PHP,Laravel,Kotln,Other...**
